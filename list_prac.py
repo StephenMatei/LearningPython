@@ -1,5 +1,6 @@
 list_a = [2,3,4,5,6,7,8,9,10] # Create a list with initial values
-
+max_value = max(list_a) # Find the maximum value in the list
+print(max_value) # Print the maximum value
 print(list_a[3]) # Accessing the 4th element (index 3)
 print(list_a) # Access the element at index 3
 list_a[3] = 100     # Change the value at index 3
